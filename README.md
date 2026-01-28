@@ -31,9 +31,10 @@ Most of my projects revolve around:
 ## 🛠️ Tools & Languages
 
 - **C/C++** (experiments, performance measurement, low-level control)
+- **Python & MANIM** (Animations and Geometries)
+- LaTeX (Redacted Documents)
 - Git & GitHub
 - Basic data analysis and plotting tools
-
 ---
 
 ## 📌 Notes
