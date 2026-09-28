@@ -12,7 +12,7 @@ I enjoy working on small experimental projects where code is used not just to *w
 - Mathematics 
 - Algorithms and computational complexity
 - Experimental and empirical approaches to theory
-- Scientific programming (C/C++)
+- Scientific programming (C/C++ & Python)
 
 ---
 ![ssstik io_@calc4dumb_1767750976625](https://github.com/user-attachments/assets/8373d7df-f7a4-4430-9ca2-75a7757bd522)
